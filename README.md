@@ -115,4 +115,4 @@ Demonstrates: TCP socket programming, client-server architecture, multi-threadin
 
 ## 👤 Author
 
-**Dezső László** — [LinkedIn](https://www.linkedin.com/in/lászló-dezső-39a676255/) · [GitHub](https://github.com/dezsolaszlo)
+**Dezső László** — [LinkedIn](https://www.linkedin.com/in/dezsolaszlo/) · [GitHub](https://github.com/dezsolaszlo)
